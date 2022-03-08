@@ -29,7 +29,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Tirar filmes repetidos da lista
 - [ ] Fazer um filtro para pesquisar filmes
 - [ ] Colocar filtro por categoria
-- [ ] Gerar um sql com diversos filmes e inserir no sistema
+- [ ] Gerar um sql com diversos filmes e inserir no sistema, para atualizar os filmes repetidos
 
 ## 💻 Pré-requisitos
 
