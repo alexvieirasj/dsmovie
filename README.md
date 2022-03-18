@@ -23,7 +23,7 @@ As tecnologias utilizadas no projeto foram:
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
 
 - [ ] Reordenar a lista de filmes baseado no número de avaliações
 - [ ] Tirar filmes repetidos da lista
