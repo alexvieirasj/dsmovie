@@ -10,7 +10,7 @@
 
 <img alt="Tela DS Movie" src="./ds-movie.JPG" height="550">
 
-> Aplicativo faz avaliação de filmes. Selecione o filme e clique no botão "Avaliar", digite seu melhor email e de uma nota de 1 a 5 estrelas. Para utlizar o aplicativo [Clique Aqui](https://alex-jsv-dsmovie.netlify.app/). Projeto desenvolvido na semana "DevSuperior".
+> Aplicativo faz avaliação de filmes. Selecione o filme e clique no botão "Avaliar", digite seu melhor email e de uma nota de valores de 1 a 5 estrelas. Para utlizar o aplicativo [Clique Aqui](https://alex-jsv-dsmovie.netlify.app/). Projeto desenvolvido na semana "DevSuperior".
 
 ## :rocket: Tecnologias utilizadas no projeto
 
