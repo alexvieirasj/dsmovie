@@ -46,23 +46,23 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Obs: playlist com as configurações do ambiente e ferramentas https://www.youtube.com/watch?v=QekeJBShCy4&list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox&index=1
 
-## ☕ Usando Weather Application
+## ☕ Usando dsmovie
 
-Para usar a Weather Application, siga estas etapas:
+Para usar o dsmovie, siga estas etapas:
 
 ```
     # Clonar o repositório
-    $ git clone https://github.com/alexvieirasj/casa-criativa.git
+    $ git clone https://github.com/alexvieirasj/dsmovie.git
 
     # Entrar no diretório baixado
-    $ cd casa-criativa
+    $ cd dsmovie
     
     TODO: em construção
 ```
 
 É preciso ter instalado no computador o [Git](https://git-scm.com) (para rodar os comandos). O projeto pode ser baixado com as linhas de comando citadas ou no formato zip, clicando no botão `<Code>` na opção `<Download ZIP>`
 
-## 📫 Contribuindo para Weather Application
+## 📫 Contribuindo para dsmovie
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
