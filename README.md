@@ -1,4 +1,4 @@
-# Nome do projeto
+# Site para Avaliação de Filmes
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -10,7 +10,7 @@
 
 <img alt="Tela DS Movie" src="./ds-movie.JPG" height="550">
 
-> Aplicativo faz avaliação de filmes. Selecione o filme e clique no botão "Avaliar", digite seu melhor email e de uma nota de valores de 1 a 5 estrelas. Para utlizar o aplicativo [Clique Aqui](https://alex-jsv-dsmovie.netlify.app/). Projeto desenvolvido na semana "DevSuperior".
+> Aplicativo desenvolvido durante um evento no estilo bootcamp da empresa [DevSuperior](https://www.youtube.com/@DevSuperior/videos). O Sistema faz avaliação dos filmes. Funcionamento: selecione o filme e clique no botão "Avaliar", digite seu melhor email e de uma nota de valores de 1 a 5 estrelas. Para utlizar o aplicativo [Clique Aqui](https://alex-jsv-dsmovie.netlify.app/).
 
 ## :rocket: Tecnologias utilizadas no projeto
 
