@@ -8,6 +8,15 @@
 ![GitHub issues](https://img.shields.io/github/issues/alexvieirasj/dsmovie?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/alexvieirasj/dsmovie?style=for-the-badge)
 
+![Static Badge](https://img.shields.io/badge/level-beginner-green)
+![Static Badge](https://img.shields.io/badge/level-easy-brightgreen)
+![Static Badge](https://img.shields.io/badge/level-medium-yellow)
+![Static Badge](https://img.shields.io/badge/level-hard-critical)
+![Static Badge](https://img.shields.io/badge/level-expert-blueviolet)
+
+
+
+
 <img alt="Tela DS Movie" src="./ds-movie.JPG" height="550">
 
 > Aplicativo desenvolvido durante um evento no estilo bootcamp da empresa [DevSuperior](https://www.youtube.com/@DevSuperior/videos). O Sistema faz avaliação dos filmes. Funcionamento: selecione o filme e clique no botão "Avaliar", digite seu melhor email e de uma nota de valores de 1 a 5 estrelas. Para utlizar o aplicativo [Clique Aqui](https://alex-jsv-dsmovie.netlify.app/).
